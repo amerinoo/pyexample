@@ -1,6 +1,7 @@
 import time
 
 def main():
+    print("Starting main")
     while True:
         print("Hello World!")
         time.sleep(5)
